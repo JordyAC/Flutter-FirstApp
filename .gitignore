@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android
+/android/app/build/
+*/android-key.properties
+
+# iOS
+/ios/.generated/
+
+# etc. (más en github.com/github/gitignore/blob/main/Flutter.gitignore)
